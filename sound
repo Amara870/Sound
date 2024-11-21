@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>W6 Assignment: Web Pages</title>
+        <link rel="stylesheet" href="styles.css">
+        <!-- Amara Hill -->
+ 
+    </head>
+
+    <body>
+
+        <header>
+
+            <div class=""player-container></div>
+            <h1>At Last</h1>
+
+            <audio controls preload="auto">
+            <source src="Echoes of Achievement.mp3" type="audio/mpeg">
+                Your browser doesn not support the audio element.
+            </audio>
+            <br>
+            <br>
+            <!--Image of Gudetama-->
+            <img src="gudetama.jpg" alt="picture of Gudetama">
+
+            <!--Inline CSS for the opening text-->
+            <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: italic; font-weight: 600;;">Gudetama is my spirit animal~</p>
+       
+        </header>
+
+        <!--Section for the main content of the webpage-->
+        <main>
+
+            <p>This weekend was pretty chill and was a nice, well-deserved break.</p>
+            
+            <!--Inline CSS for an image of a couple enjoying their vacation-->
+            <img style="width:30%;" src="CoupleonBeach.jpg" alt="picture representing a nice break">
+       
+        </main>
+
+    </body>
+    
+    <footer>
+        <P>Amara Hill</P>
+    </footer>
+</html>
